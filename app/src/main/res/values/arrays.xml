@@ -1,0 +1,12 @@
+<resources>
+    <string-array name="categories">
+        <item>Type</item>
+        <item>Food</item>
+        <item>Drinks</item>
+        <item>Music</item>
+    </string-array>
+    <array name="price_defaults">
+        <item>0.25</item>
+        <item>0.75</item>
+    </array>
+</resources>
